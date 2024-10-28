@@ -29,8 +29,8 @@ const Prayer = () => {
   return (
     <CommonComponent
       masterData={masterData}
-      dataId="old-data-"
-      targetId="old-target-"
+      dataId="new-data-"
+      targetId="new-target-"
     />
   );
 };
